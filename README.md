@@ -1,3 +1,3 @@
-Site for 2018.fossasia.org Summit
+Site for OpenTechSummit China.
 
-http://2018.fossasia.org
+http://opentechsummit.cn
