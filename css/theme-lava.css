@@ -2043,7 +2043,7 @@ p.question {
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
-  max-height: 80px;
+  max-height: 110px;
 }
 .sponsors span {
   display: inline-block;
