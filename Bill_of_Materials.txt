@@ -1,0 +1,14 @@
+Bill of materials
+
+- 2x MDF wood plates 25x50 cm (to be lasercut)
+- Screws and nuts M5 60 mm
+- Razor blades
+- Duct tape / light tight tape
+- Diffraction grating or "peeled" CD
+- Webcam VIDEW JDEPC-05, lens 45°
+
+- 1,5V batteries holder, double slot
+- 2x 1,5V batteries
+- White LED
+- CFL (Compact Fluorescent Light) - for calibration
+- Plug for the lightbulb
