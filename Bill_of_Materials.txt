@@ -2,13 +2,63 @@ Bill of materials
 
 - 2x MDF wood plates 25x50 cm (to be lasercut)
 - Screws and nuts M5 60 mm
+- Screws M15 and nuts M15 width max 3mm
+- Anti slip tiny silicon pads
 - Razor blades
 - Duct tape / light tight tape
 - Diffraction grating or "peeled" CD
-- Webcam VIDEW JDEPC-05, lens 45�
+- Webcam VIDEW JDEPC-05, lens 45°
+
 
 - 1,5V batteries holder, double slot
 - 2x 1,5V batteries
 - White LED
-- CFL (Compact Fluorescent Light) - for calibration
+- CFL (Compact Fluorescent Light) - for calibration (Notmandatory)
 - Plug for the lightbulb
+
+
+Suppliers:
+MDF: Modulor, Berlin, Germany
+https://www.modulor.de/en/
+
+Screws and nuts M5x60
+Aliexpress
+Screws???
+https://www.aliexpress.com/item/4000138361051.html
+
+Screws and nuts M1.4x6
+Aliexpress
+https://www.aliexpress.com/item/32998910287.html
+https://www.aliexpress.com/item/33002547187.html
+
+Anti-slip pads
+
+
+Slit / razor blades
+https://www.edmundoptics.com/f/precision-air-slits/12136/
+https://www.dm.de/muehle-rasierklingen-fuer-rasierhobel-p4028982008452.html
+
+Duct tape
+At bricolage market. It is used to cover the green LED on the camera module
+To check if it's easier to turn off the LED directly
+
+Diffraction grating / peeled cd
+https://www.amazon.de/Rolle-Beugungsgitter-Folien-Linear-Linien/dp/B007G0MW2Q
+
+Webcam VIDEW JDEPC-05, lens 45°, without IR filter
+https://www.alibaba.com/product-detail/1-4-CMOS-Sensor-720P-camera_60667541444.html
+
+AA battery x2
+https://www.aliexpress.com/item/4000194009848.html
+
+AA battery double case
+https://www.aliexpress.com/item/32818907820.html
+
+White LED
+https://www.aliexpress.com/item/32505130071.html
+
+CFL lightbulb (It's being phased out, xenon discharge lamps can substitute them)
+https://www.amazon.de/Osram-Energiesparlampe-Stick-E27-363855/dp/B008OJWF9S/
+
+CFL E27 lamp holder
+https://www.amazon.de/kwmobile-Lampenfassung-Schalter-Lampenaufh%C3%A4ngung-Pendelleuchte/dp/B0769XRYXL
