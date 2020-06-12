@@ -8,6 +8,10 @@ This repository provides scripts for the open spectrometer project to enable pra
 
 The open spectrometer project consists of a web cam, simple lasercut parts, battery casing and a suitable LED lightning component. The spectrometer connects to a computer via USB, where the user can run the scripts provided in this repository to run experiments and take measurements. 
 
+![Open Source Spectrometer](/docs/images/spectrometer_transparent.jpg "Open Source Spetrometer")
+A transparent version of the spectrometer for explanation purposes.
+
+
 ## Open Science and Goals
 
 By definition science should be open and reproducible. So, the outcome of an experiment can be verified by anyone. Unfortunately today this is not always the case. In order to be able to verify experiments all components used should be openly accessible. This includes the software and hardware of scientific instruments. Our spectrometer project follows this path. By giving access to all layers of the device used in a scientific experiment users can develop a deep understanding how scientific measurements are taken and practicioners are able to critically understand the limitations of the particular instrument.
@@ -23,6 +27,8 @@ The spectrometer community is still small. There are overlaps with the Pocket Sc
 
 - The bill of materials is available in the /components folder.
 - The design files for the lasercut files are available in the /schematics folder.
+
+![Open Source Spectrometer Camera Component](/docs/images/spectrometer_cameracomponent.jpg "Open Source Spetrometer Camera Component")
 
 Roadmap:
 
