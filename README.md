@@ -27,6 +27,7 @@ The spectrometer community is still small. There are overlaps with the Pocket Sc
 - The design files for the lasercut files are available in the /schematics folder.
 
 ![Open Source Spectrometer Camera Component](/docs/images/spectrometer_cameracomponent.jpg "Open Source Spetrometer Camera Component")
+The camera component of the spectrometer in transparent casing.
 
 Roadmap:
 
