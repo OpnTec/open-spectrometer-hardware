@@ -14,9 +14,9 @@ A transparent version of the spectrometer for explanation purposes.
 
 ## Open Science and Goals
 
-By definition science should be open and reproducible. So, the outcome of an experiment can be verified by anyone. Unfortunately today this is not always the case. In order to be able to verify experiments all components used should be openly accessible. This includes the software and hardware of scientific instruments. Our spectrometer project follows this path. By giving access to all layers of the device used in a scientific experiment users can develop a deep understanding how scientific measurements are taken and practicioners are able to critically understand the limitations of the particular instrument.
+By definition science should be open and reproducible. So, the outcome of an experiment can be verified by anyone. Unfortunately today this is not always the case. In order to be able to verify experiments all components used should be openly accessible. This includes the software and hardware of scientific instruments. Our spectrometer project follows this path. By giving access to all layers of the device used in a scientific experiment users can develop a deep understanding how scientific measurements are taken and practitioners are able to critically understand the limitations of the particular instrument.
 
-The spectrometer consists of a set of materials designed to be available and affordable anywhere in the world. The design's focus is to promote education about spectrometry and analytical chemistry, with the goal of empowering, stimulating and encouraging individuals to learn about their environment applying scientific methodologies. Furthermore, the goal of the tool is to enable practicioners to study open design, scientific programming, physics and to reflect about reproducibility in scientific practices.
+The spectrometer consists of a set of materials designed to be available and affordable anywhere in the world. The design's focus is to promote education about spectrometry and analytical chemistry, with the goal of empowering, stimulating and encouraging individuals to learn about their environment applying scientific methodologies. Furthermore, the goal of the tool is to enable practitioners to study open design, scientific programming, physics and to reflect about reproducibility in scientific practices.
 
 ## Communication
 
@@ -40,7 +40,7 @@ Roadmap:
 
 ## Software
 
-To get the data from the spetrometer device practicioners can use the spectrometer Python scripts available in the project. 
+To get the data from the spetrometer device practitioners can use the spectrometer Python scripts available in the project. 
 
 
 ## Contributors
