@@ -4,9 +4,7 @@
 [![Build Status](https://travis-ci.com/OpnTec/spectrometer-python.svg?branch=master)](https://travis-ci.com/OpnTec/spectrometer-python)
 [![Gitter](https://badges.gitter.im/fossasia/pslab.svg)](https://gitter.im/fossasia/pslab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This repository provides scripts for the open spectrometer project to enable practitioners, students and citizen scientists to collect data with their spectrometer and have a good and fun learning experience. Enjoy!
-
-The open spectrometer project consists of a web cam, simple lasercut parts, battery casing and a suitable LED lightning component. The spectrometer connects to a computer via USB, where the user can run the scripts provided in this repository to run experiments and take measurements. 
+This repository provides hardware schematics and list of materials for the open spectrometer project to enable practitioners, students and citizen scientists to collect data with their spectrometer and have a good and fun learning experience. The open spectrometer project consists of a web cam, simple lasercut parts, battery casing and a suitable LED lightning component. The spectrometer connects to a computer via USB, where the user can run the scripts provided in this repository to run experiments and take measurements. Enjoy!
 
 ![Open Source Spectrometer](/docs/images/spectrometer_transparent.jpg "Open Source Spetrometer")
 A transparent version of the spectrometer for explanation purposes.
