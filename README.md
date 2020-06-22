@@ -1,7 +1,7 @@
 # DIY Analytics Open Source Spectrometer
 
 
-[![Build Status](https://travis-ci.com/OpnTec/spectrometer-python.svg?branch=master)](https://travis-ci.com/OpnTec/spectrometer-python)
+[![Build Status](https://travis-ci.com/OpnTec/open-spectrometer-hardware.svg?branch=master)](https://travis-ci.com/OpnTec/open-spectrometer-hardware)
 [![Gitter](https://badges.gitter.im/fossasia/pslab.svg)](https://gitter.im/fossasia/pslab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This repository provides hardware schematics and list of materials for the open spectrometer project to enable practitioners, students and citizen scientists to collect data with their spectrometer and have a good and fun learning experience. The open spectrometer project consists of a web cam, simple lasercut parts, battery casing and a suitable LED lightning component. The spectrometer connects to a computer via USB, where the user can run the scripts provided in this repository to run experiments and take measurements. Enjoy!
